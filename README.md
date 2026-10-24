@@ -31,7 +31,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+  - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
 - [How to Contribute](#how-to-contribute)
@@ -42,25 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+### Sector Overview & Market Dynamics
 
+The global A/B testing and digital experimentation software market is estimated between **$1.5B to $2.5B+** (expanding beyond **$8B+** when including broader AI personalization and customer experience optimization suites), growing at a compound annual growth rate (CAGR) of ~12% to 15%. The sector is **moderately fragmented**: enterprise digital experience suites (Adobe, Optimizely) command large enterprise accounts alongside major feature management vendors, but the market is not winner-take-all—specialized CRO/visual testing platforms (VWO/AB Tasty) and agile modern warehouse-native platforms (Statsig, Eppo) hold strong, defensible positions across developers and data teams.
 
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Optimizely](https://www.optimizely.com/)** | Enterprise experimentation and feature flagging platform with a visual editor for marketers. | **Custom enterprise pricing only**. Median contract **~$50,000/year** based on verified purchases; range reported at $50K–$250K/month for large deployments. **2-year minimum commitment**, no downgrades mid-term, no free tier . | **No free tier** (eliminated in 2015). No trial available. |
-
-| **[VWO / AB Tasty (Wingify)](https://vwo.com/)** | Merged entity combining VWO and AB Tasty; A/B testing and personalization with a visual editor. | **Quote-only**. Pricing depends on MAU, products selected, and scope. Existing contracts unchanged post-merger (announced January 2026) . | **Free trial** and a demo space with pre-populated data available . No permanent free tier. |
-
-| **[Adobe Target](https://business.adobe.com/products/target/adobe-target.html)** | Enterprise personalization and experimentation within Adobe Experience Cloud. | Custom enterprise pricing; typically requires existing Adobe Experience Cloud investment. | No public free tier. Trial via sales engagement. |
-
-| **[LaunchDarkly](https://launchdarkly.com/)** | Feature management and experimentation platform with enterprise audit trails and progressive delivery. | **Quote-based**; seat and MAU-based pricing. Experimentation is an add-on to the core feature flag platform . | No permanent free tier for full platform. Developer free tier available for feature flags. |
-
-| **[Statsig](https://www.statsig.com/)** | Experimentation platform with sequential testing, multi-armed bandits, and a strong free tier. | Quote-based for paid plans; **generous free tier** noted as a key differentiator . | **Free tier** available with strong sequential testing capabilities . Exact limits not published in search results. |
-
-| **[Eppo](https://www.geteppo.com/)** | Warehouse-native experimentation platform focused on rigor and statistical correctness. | Quote-based. Typical pricing for **5–10 seats: $20K–$40K/year**; **10–30 seats: $40K–$120K/year** . | No public free tier. Demo via sales engagement. |
-
-
+| Product | Description | Company Size / Valuation / Revenue | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Target](https://business.adobe.com/products/target/adobe-target.html)** | Enterprise personalization and experimentation within Adobe Experience Cloud. | **Market Cap: ~$105B+**; Adobe annual revenue **$21B+** | Starts at **~$40,000–$80,000/year** (annual contract required; metered by annual server calls/impressions). | **No free tier**; no public trial (enterprise sales-guided POC sandbox only). |
+| **[LaunchDarkly](https://launchdarkly.com/)** | Feature management and experimentation platform with enterprise audit trails and progressive delivery. | **Valuation: ~$3B** (Series D); ARR **~$100M+** | Paid Foundation tier starts at **$12/user/month** (metered by context MAUs and service connections; experimentation add-on scales based on monthly evaluated keys). | **Perpetual Free Plan (Developer)**: Unlimited seats and feature flags across 1 project & 3 environments; strictly capped at **1,000 context MAUs/month** and 5 service connections. |
+| **[Optimizely](https://www.optimizely.com/)** | Enterprise experimentation, CMS, and feature flagging platform with marketer visual editor. | **Valuation: ~$1.5B–$2B** (PE-backed by Insight Partners); ARR **$400M+** | Starts at **~$36,000–$50,000/year** (custom annual/2-year enterprise commitment; scales to $150K+/year by traffic volume). | **No free tier** (eliminated in 2015); no self-serve free trial (guided sales POC sandboxes only). |
+| **[Statsig](https://www.statsig.com/)** | Cloud and warehouse-native experimentation platform with sequential testing and product analytics. | **Valuation: ~$1.1B** (Series C unicorn); ARR **~$40M+** | Free tier available; paid Pro tier starts at **$150/month** (includes 5M events, additional events at $0.05/1K events). | **Perpetual Free Plan (Developer)**: **2,000,000 metered events/month**, 50,000 session replays/month, unlimited seats, and unlimited flag checks. |
+| **[VWO / AB Tasty (Wingify)](https://vwo.com/)** | Merged entity combining VWO and AB Tasty; A/B testing and personalization with visual editor. | **Valuation: ~$200M** (Everstone Capital buyout); Wingify revenue **~$50M/year** | Starter/Growth plans start at **~$200–$314/month** billed annually (scales up by Monthly Tracked Users starting from 10,000–50,000 MTUs). | **No permanent free tier**; provides a **30-day full-featured free trial** across testing, heatmaps, and personalization modules. |
+| **[Eppo](https://www.geteppo.com/)** | Warehouse-native experimentation platform focused on rigor and statistical correctness. | **Valuation: ~$138M** (Series B post-money); Total funding **$51.3M** | Custom quote-based entry tiers typically start at **$15,000–$20,000/year** for small teams (5–10 seats), scaling to $40K–$120K/year for larger seat counts. | **No permanent free tier**; no public self-service trial (evaluation via sales-guided pilot / data warehouse POC). |
 
 ## Open-Source GitHub Projects
 
