@@ -69,55 +69,55 @@ The global A/B testing and digital experimentation software market is estimated 
 
 *Open-source platforms sorted in descending order of GitHub stargazers.*
 
-- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) 🌟  
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) 🌟  
   **The all-in-one open-source product analytics, feature flagging, and experimentation suite.** Default for engineering-led teams in 2026. Experiments are bundled natively with feature flags and session replays with identical billing. Includes multi-variate variants, secondary metrics, sample size calculators, and automated statistical significance detection.  
   * **Free Cloud Allowance**: 1,000,000 events/month, 1,000,000 feature flag evaluations/month, and 5,000 session replays.
 
-- **[Unleash](https://github.com/Unleash/unleash)** [![GitHub Stars](https://img.shields.io/github/stars/Unleash/unleash?style=social&color=white)](https://github.com/Unleash/unleash/stargazers) 🌟  
+- **[Unleash](https://github.com/Unleash/unleash)** [![GitHub_Stars](https://img.shields.io/github/stars/Unleash/unleash?style=social&color=white)](https://github.com/Unleash/unleash/stargazers) 🌟  
   **The enterprise-grade open-source feature management standard.** Built in Node.js and TypeScript, Unleash supports gradual rollouts, canary deployments, targeted user segments, and experiment metric evaluations across mobile, web, and backend SDKs.  
   * **Open-Source Edition**: 100% free and self-hostable with no seat limits; includes core feature flagging with caps of 1 project, 2 environments, and 5,000 flags per instance.
 
-- **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers) 🌟  
+- **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub_Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers) 🌟  
   **The leading open-source, warehouse-native experimentation and feature flag platform.** Connects directly to BigQuery, Snowflake, Databricks, Redshift, ClickHouse, and Postgres. Supports Bayesian and Frequentist statistics with automated CUPED variance reduction, peer review workflows, and visual A/B editor extensions.  
   * **Deployment**: Unlimited self-hosted community version with full statistical engine and feature flag capabilities.
 
-- **[Flagsmith](https://github.com/Flagsmith/flagsmith)** [![GitHub Stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social&color=white)](https://github.com/Flagsmith/flagsmith/stargazers) 🌟  
+- **[Flagsmith](https://github.com/Flagsmith/flagsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social&color=white)](https://github.com/Flagsmith/flagsmith/stargazers) 🌟  
   **Open-source feature flag, remote config, and multivariate experimentation platform.** Enables complete release control across web, mobile, and server environments. Flagsmith allows developers to toggle features, run A/B multivariate tests, and dynamically update configuration values without redeploying code.  
   * **Deployment**: Fully dockerized open-source engine; Cloud free tier with 50,000 requests/month.
 
-- **[Flipt](https://github.com/flipt-io/flipt)** [![GitHub Stars](https://img.shields.io/github/stars/flipt-io/flipt?style=social&color=white)](https://github.com/flipt-io/flipt/stargazers) 🌟  
+- **[Flipt](https://github.com/flipt-io/flipt)** [![GitHub_Stars](https://img.shields.io/github/stars/flipt-io/flipt?style=social&color=white)](https://github.com/flipt-io/flipt/stargazers) 🌟  
   **High-performance, cloud-native feature management and experimentation platform written in Go.** Designed with a GitOps-first mentality and zero external dependencies. Supports both declarative configuration (YAML/JSON checked into Git) and REST/gRPC/OpenFeature APIs with local caching and sub-millisecond evaluation latency.  
   * **Highlights**: Native OpenFeature provider support, distributed architecture, and multi-tenant segmentation.
 
-- **[Flipper](https://github.com/flippercloud/flipper)** [![GitHub Stars](https://img.shields.io/github/stars/flippercloud/flipper?style=social&color=white)](https://github.com/flippercloud/flipper/stargazers) 🌟  
+- **[Flipper](https://github.com/flippercloud/flipper)** [![GitHub_Stars](https://img.shields.io/github/stars/flippercloud/flipper?style=social&color=white)](https://github.com/flippercloud/flipper/stargazers) 🌟  
   **The de-facto open-source feature toggle and experimentation suite for Ruby and Rails.** Backed by versatile adapters (Redis, ActiveRecord, Memcached, Mongo, Consul), Flipper allows toggling features by percentage of actors, percentage of time, groups, or individual user IDs.  
   * **Highlights**: Extremely fast in-memory execution, web admin UI dashboard, and battle-tested in high-throughput production environments.
 
-- **[GO Feature Flag](https://github.com/thomaspoignant/go-feature-flag)** [![GitHub Stars](https://img.shields.io/github/stars/thomaspoignant/go-feature-flag?style=social&color=white)](https://github.com/thomaspoignant/go-feature-flag/stargazers) 🌟  
+- **[GO Feature Flag](https://github.com/thomaspoignant/go-feature-flag)** [![GitHub_Stars](https://img.shields.io/github/stars/thomaspoignant/go-feature-flag?style=social&color=white)](https://github.com/thomaspoignant/go-feature-flag/stargazers) 🌟  
   **A lightweight, zero-infrastructure feature flagging and experimentation solution.** Read flag rules directly from S3, GitHub, HTTP, Kubernetes ConfigMaps, or local files. Evaluates progressive rollouts, A/B experiments, and user segmentation without maintaining complex database clusters.  
   * **Highlights**: Native OpenFeature compliance, zero-dependency Go core, and support for 15+ SDK language bindings via a standalone relay proxy.
 
-- **[FeatBit](https://github.com/featbit/featbit)** [![GitHub Stars](https://img.shields.io/github/stars/featbit/featbit?style=social&color=white)](https://github.com/featbit/featbit/stargazers) 🌟  
+- **[FeatBit](https://github.com/featbit/featbit)** [![GitHub_Stars](https://img.shields.io/github/stars/featbit/featbit?style=social&color=white)](https://github.com/featbit/featbit/stargazers) 🌟  
   **100% open-source, fast, and scalable feature flags and experimentation platform.** Written in .NET and Vue, FeatBit offers real-time data streaming, granular targeting rules, multivariate tests, and customized workflow approvals. Built as an open alternative to LaunchDarkly for high-concurrency microservices.  
   * **Deployment**: AGPL-3.0 licensed; docker-compose setup with free self-hosting.
 
-- **[FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)** [![GitHub Stars](https://img.shields.io/github/stars/FeatureProbe/FeatureProbe?style=social&color=white)](https://github.com/FeatureProbe/FeatureProbe/stargazers) 🌟  
+- **[FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)** [![GitHub_Stars](https://img.shields.io/github/stars/FeatureProbe/FeatureProbe?style=social&color=white)](https://github.com/FeatureProbe/FeatureProbe/stargazers) 🌟  
   **Open-source feature management and progressive rollout service.** Focuses on decoupling code deployment from feature release, canary testing, and multivariate A/B testing with high-throughput Rust evaluation engines.  
   * **Highlights**: Real-time WebSocket toggle updates, client and server-side SDKs, and statistical performance metrics.
 
-- **[Wasabi](https://github.com/intuit/wasabi)** [![GitHub Stars](https://img.shields.io/github/stars/intuit/wasabi?style=social&color=white)](https://github.com/intuit/wasabi/stargazers) 🌟  
+- **[Wasabi](https://github.com/intuit/wasabi)** [![GitHub_Stars](https://img.shields.io/github/stars/intuit/wasabi?style=social&color=white)](https://github.com/intuit/wasabi/stargazers) 🌟  
   **Real-time, enterprise-grade, 100% API-driven A/B testing and experimentation service developed by Intuit.** Built in Java/Cassandra for high-volume enterprise traffic, allowing teams to run concurrent bucket tests across web, mobile, and desktop applications with strict data isolation.  
   * **Highlights**: Apache-2.0 licensed, proven at enterprise scale, and zero third-party data tracking.
 
-- **[flagd (OpenFeature)](https://github.com/open-feature/flagd)** [![GitHub Stars](https://img.shields.io/github/stars/open-feature/flagd?style=social&color=white)](https://github.com/open-feature/flagd/stargazers) 🌟  
+- **[flagd (OpenFeature)](https://github.com/open-feature/flagd)** [![GitHub_Stars](https://img.shields.io/github/stars/open-feature/flagd?style=social&color=white)](https://github.com/open-feature/flagd/stargazers) 🌟  
   **A CNCF (Cloud Native Computing Foundation) feature flag evaluation daemon.** Follows the Unix philosophy: a lightweight daemon that evaluates feature flags locally, receiving flag definitions from Git, Kubernetes CRDs, HTTP endpoints, or cloud storage.  
   * **Highlights**: Vendor-agnostic OpenFeature standard, ultra-low latency, and native Kubernetes controller integration.
 
-- **[dif.sh](https://github.com/dif-sh/dif)** [![GitHub Stars](https://img.shields.io/github/stars/dif-sh/dif?style=social&color=white)](https://github.com/dif-sh/dif/stargazers) 🌟  
+- **[dif.sh](https://github.com/dif-sh/dif)** [![GitHub_Stars](https://img.shields.io/github/stars/dif-sh/dif?style=social&color=white)](https://github.com/dif-sh/dif/stargazers) 🌟  
   **The Git-native experimentation and A/B testing tool.** Treats experiments and feature toggles as version-controlled Markdown files stored directly alongside your application source code. PR reviews govern rollout decisions, keeping statistical rationale and experiment post-mortems in Git history.  
   * **Highlights**: Zero external SaaS reliance, full offline reviewability, and built-in developer ergonomics.
 
-- **[Replane](https://github.com/replane-dev/replane)** [![GitHub Stars](https://img.shields.io/github/replane-dev/replane?style=social&color=white)](https://github.com/replane-dev/replane/stargazers) 🌟  
+- **[Replane](https://github.com/replane-dev/replane)** [![GitHub_Stars](https://img.shields.io/github/replane-dev/replane?style=social&color=white)](https://github.com/replane-dev/replane/stargazers) 🌟  
   **Open-source, self-hosted feature flags and dynamic configuration engine.** Features sub-second configuration propagation to distributed clients via Server-Sent Events (SSE). Enables instant toggle changes without redeployment.
 
 ---
